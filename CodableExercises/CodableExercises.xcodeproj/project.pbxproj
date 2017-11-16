@@ -16,9 +16,13 @@
 		811E8EFA1FBE205700C60F3F /* SongsDetailedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811E8EF91FBE205700C60F3F /* SongsDetailedViewController.swift */; };
 		811E8EFC1FBE20B000C60F3F /* Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811E8EFB1FBE20B000C60F3F /* Song.swift */; };
 		8129F09C1FBE29F3001346AA /* CitiesInfo.json in Resources */ = {isa = PBXBuildFile; fileRef = 8129F09B1FBE29F3001346AA /* CitiesInfo.json */; };
-		8129F09E1FBE30F9001346AA /* Cities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8129F09D1FBE30F9001346AA /* Cities.swift */; };
+		8129F09E1FBE30F9001346AA /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8129F09D1FBE30F9001346AA /* City.swift */; };
 		8129F0A01FBE3231001346AA /* CitiesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8129F09F1FBE3231001346AA /* CitiesViewController.swift */; };
 		8129F0A21FBE324F001346AA /* CitiesDetailedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8129F0A11FBE324F001346AA /* CitiesDetailedViewController.swift */; };
+		8129F0A41FBE4609001346AA /* ColorInfo.json in Resources */ = {isa = PBXBuildFile; fileRef = 8129F0A31FBE4608001346AA /* ColorInfo.json */; };
+		8129F0A71FBE4702001346AA /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8129F0A61FBE4702001346AA /* Color.swift */; };
+		8129F0A91FBE470F001346AA /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8129F0A81FBE470F001346AA /* ColorViewController.swift */; };
+		8129F0AB1FBE4718001346AA /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8129F0AA1FBE4718001346AA /* ColorDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,9 +37,13 @@
 		811E8EF91FBE205700C60F3F /* SongsDetailedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsDetailedViewController.swift; sourceTree = "<group>"; };
 		811E8EFB1FBE20B000C60F3F /* Song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Song.swift; sourceTree = "<group>"; };
 		8129F09B1FBE29F3001346AA /* CitiesInfo.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = CitiesInfo.json; path = ../CitiesInfo.json; sourceTree = "<group>"; };
-		8129F09D1FBE30F9001346AA /* Cities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cities.swift; sourceTree = "<group>"; };
+		8129F09D1FBE30F9001346AA /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 		8129F09F1FBE3231001346AA /* CitiesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitiesViewController.swift; sourceTree = "<group>"; };
 		8129F0A11FBE324F001346AA /* CitiesDetailedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitiesDetailedViewController.swift; sourceTree = "<group>"; };
+		8129F0A31FBE4608001346AA /* ColorInfo.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ColorInfo.json; sourceTree = "<group>"; };
+		8129F0A61FBE4702001346AA /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		8129F0A81FBE470F001346AA /* ColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
+		8129F0AA1FBE4718001346AA /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +62,7 @@
 			children = (
 				811E8EF41FBE201800C60F3F /* SongsInfo.json */,
 				8129F09B1FBE29F3001346AA /* CitiesInfo.json */,
+				8129F0A31FBE4608001346AA /* ColorInfo.json */,
 				811E8EE01FBE1EAE00C60F3F /* CodableExercises */,
 				811E8EDF1FBE1EAE00C60F3F /* Products */,
 			);
@@ -73,6 +82,7 @@
 				811E8EF31FBE1EC900C60F3F /* Unused Stuff */,
 				811E8EF61FBE202800C60F3F /* Songs Exercise 1 */,
 				8129F09A1FBE2894001346AA /* Weather Exercises 2 */,
+				8129F0A51FBE468E001346AA /* Colors Exercise 3 */,
 				811E8EE51FBE1EAE00C60F3F /* Main.storyboard */,
 				811E8EE81FBE1EAE00C60F3F /* Assets.xcassets */,
 				811E8EED1FBE1EAE00C60F3F /* Info.plist */,
@@ -102,11 +112,21 @@
 		8129F09A1FBE2894001346AA /* Weather Exercises 2 */ = {
 			isa = PBXGroup;
 			children = (
-				8129F09D1FBE30F9001346AA /* Cities.swift */,
+				8129F09D1FBE30F9001346AA /* City.swift */,
 				8129F09F1FBE3231001346AA /* CitiesViewController.swift */,
 				8129F0A11FBE324F001346AA /* CitiesDetailedViewController.swift */,
 			);
 			path = "Weather Exercises 2";
+			sourceTree = "<group>";
+		};
+		8129F0A51FBE468E001346AA /* Colors Exercise 3 */ = {
+			isa = PBXGroup;
+			children = (
+				8129F0A61FBE4702001346AA /* Color.swift */,
+				8129F0A81FBE470F001346AA /* ColorViewController.swift */,
+				8129F0AA1FBE4718001346AA /* ColorDetailViewController.swift */,
+			);
+			path = "Colors Exercise 3";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -171,6 +191,7 @@
 				811E8EF51FBE201800C60F3F /* SongsInfo.json in Resources */,
 				811E8EEC1FBE1EAE00C60F3F /* LaunchScreen.storyboard in Resources */,
 				8129F09C1FBE29F3001346AA /* CitiesInfo.json in Resources */,
+				8129F0A41FBE4609001346AA /* ColorInfo.json in Resources */,
 				811E8EE91FBE1EAE00C60F3F /* Assets.xcassets in Resources */,
 				811E8EE71FBE1EAE00C60F3F /* Main.storyboard in Resources */,
 			);
@@ -184,11 +205,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				811E8EFC1FBE20B000C60F3F /* Song.swift in Sources */,
-				8129F09E1FBE30F9001346AA /* Cities.swift in Sources */,
+				8129F09E1FBE30F9001346AA /* City.swift in Sources */,
 				8129F0A21FBE324F001346AA /* CitiesDetailedViewController.swift in Sources */,
+				8129F0AB1FBE4718001346AA /* ColorDetailViewController.swift in Sources */,
 				811E8EE21FBE1EAE00C60F3F /* AppDelegate.swift in Sources */,
 				8129F0A01FBE3231001346AA /* CitiesViewController.swift in Sources */,
+				8129F0A71FBE4702001346AA /* Color.swift in Sources */,
 				811E8EF81FBE204D00C60F3F /* SongsViewController.swift in Sources */,
+				8129F0A91FBE470F001346AA /* ColorViewController.swift in Sources */,
 				811E8EFA1FBE205700C60F3F /* SongsDetailedViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

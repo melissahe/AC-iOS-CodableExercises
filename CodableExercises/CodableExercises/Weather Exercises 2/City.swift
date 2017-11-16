@@ -9,10 +9,10 @@
 import Foundation
 
 struct Weather: Codable {
-    let list: [Cities]
+    let list: [City]
 }
 
-struct Cities: Codable {
+struct City: Codable {
     let name: String
     let main: GeneralInfo
     let weather: [WeatherInfo]
