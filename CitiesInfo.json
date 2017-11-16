@@ -1,0 +1,1328 @@
+{
+    "cod": 200,
+    "calctime": 0.164459492,
+    "cnt": 39,
+    "list": [
+             {
+             "id": 1172513,
+             "dt": 1510862736,
+             "name": "Lachi",
+             "coord": {
+                 "Lat": 33.383251,
+                 "Lon": 71.338577
+                 },
+             "main": {
+                 "temp": 7.23,
+                 "temp_min": 7.23,
+                 "temp_max": 7.23,
+                 "pressure": 944.25,
+                 "sea_level": 1032.62,
+                 "grnd_level": 944.25,
+                 "humidity": 94
+                 },
+             "wind": {
+                 "speed": 1.12,
+                 "deg": 272.502
+                 },
+             "rain": {
+                 "3h": 1.605
+                 },
+             "snow": null,
+             "clouds": {
+                 "today": 20
+                 },
+             "weather": [
+                         {
+                         "id": 500,
+                         "main": "Rain",
+                         "description": "light rain",
+                         "icon": "10n"
+                         }
+                         ]
+             },
+             {
+             "id": 1177203,
+             "dt": 1510862736,
+             "name": "Hangu",
+             "coord": {
+             "Lat": 33.531078,
+             "Lon": 71.059341
+             },
+             "main": {
+             "temp": 12,
+             "temp_min": 12,
+             "temp_max": 12,
+             "pressure": 1018,
+             "humidity": 76
+             },
+             "wind": {
+             "speed": 0.95,
+             "deg": 349.002
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 721,
+                         "main": "Haze",
+                         "description": "haze",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1173491,
+             "dt": 1510862647,
+             "name": "Kohat",
+             "coord": {
+             "Lat": 33.581959,
+             "Lon": 71.449287
+             },
+             "main": {
+             "temp": 12,
+             "temp_min": 12,
+             "temp_max": 12,
+             "pressure": 1018,
+             "humidity": 76
+             },
+             "wind": {
+             "speed": 1.12,
+             "deg": 272.502
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 721,
+                         "main": "Haze",
+                         "description": "haze",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1176218,
+             "dt": 1510862736,
+             "name": "Jand",
+             "coord": {
+             "Lat": 33.429852,
+             "Lon": 72.019279
+             },
+             "main": {
+             "temp": 10.48,
+             "temp_min": 10.48,
+             "temp_max": 10.48,
+             "pressure": 978.79,
+             "sea_level": 1031.89,
+             "grnd_level": 978.79,
+             "humidity": 97
+             },
+             "wind": {
+             "speed": 1.17,
+             "deg": 296.002
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 64
+             },
+             "weather": [
+                         {
+                         "id": 803,
+                         "main": "Clouds",
+                         "description": "broken clouds",
+                         "icon": "04n"
+                         }
+                         ]
+             },
+             {
+             "id": 1168015,
+             "dt": 1510862736,
+             "name": "Pindi Gheb",
+             "coord": {
+             "Lat": 33.240238,
+             "Lon": 72.26609
+             },
+             "main": {
+             "temp": 8.13,
+             "temp_min": 8.13,
+             "temp_max": 8.13,
+             "pressure": 985.03,
+             "sea_level": 1031.61,
+             "grnd_level": 985.03,
+             "humidity": 96
+             },
+             "wind": {
+             "speed": 0.82,
+             "deg": 236.502
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 0
+             },
+             "weather": [
+                         {
+                         "id": 800,
+                         "main": "Clear",
+                         "description": "clear sky",
+                         "icon": "01n"
+                         }
+                         ]
+             },
+             {
+             "id": 1166993,
+             "dt": 1510862735,
+             "name": "Rawalpindi",
+             "coord": {
+             "Lat": 33.6007,
+             "Lon": 73.067902
+             },
+             "main": {
+             "temp": 13,
+             "temp_min": 13,
+             "temp_max": 13,
+             "pressure": 1018,
+             "humidity": 82
+             },
+             "wind": {
+             "speed": 5.1,
+             "deg": 50
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1176615,
+             "dt": 1510862736,
+             "name": "Islamabad",
+             "coord": {
+             "Lat": 33.721481,
+             "Lon": 73.043289
+             },
+             "main": {
+             "temp": 13,
+             "temp_min": 13,
+             "temp_max": 13,
+             "pressure": 1018,
+             "humidity": 82
+             },
+             "wind": {
+             "speed": 5.1,
+             "deg": 50
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1177682,
+             "dt": 1510862736,
+             "name": "Gujar Khan",
+             "coord": {
+             "Lat": 33.255791,
+             "Lon": 73.302551
+             },
+             "main": {
+             "temp": 13,
+             "temp_min": 13,
+             "temp_max": 13,
+             "pressure": 1018,
+             "humidity": 82
+             },
+             "wind": {
+             "speed": 5.1,
+             "deg": 50
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1175436,
+             "dt": 1510862736,
+             "name": "Kahuta",
+             "coord": {
+             "Lat": 33.591301,
+             "Lon": 73.386757
+             },
+             "main": {
+             "temp": 13,
+             "temp_min": 13,
+             "temp_max": 13,
+             "pressure": 1018,
+             "humidity": 82
+             },
+             "wind": {
+             "speed": 5.1,
+             "deg": 50
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1175082,
+             "dt": 1510862510,
+             "name": "Kamra",
+             "coord": {
+             "Lat": 33.747341,
+             "Lon": 73.51107
+             },
+             "main": {
+             "temp": 13,
+             "temp_min": 13,
+             "temp_max": 13,
+             "pressure": 1018,
+             "humidity": 82
+             },
+             "wind": {
+             "speed": 5.1,
+             "deg": 50
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1173055,
+             "dt": 1510862736,
+             "name": "Kotli",
+             "coord": {
+             "Lat": 33.51667,
+             "Lon": 73.916672
+             },
+             "main": {
+             "temp": 4.51,
+             "temp_min": 4.51,
+             "temp_max": 4.51,
+             "pressure": 910.78,
+             "sea_level": 1031.41,
+             "grnd_level": 910.78,
+             "humidity": 93
+             },
+             "wind": {
+             "speed": 1.92,
+             "deg": 36.5021
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 0
+             },
+             "weather": [
+                         {
+                         "id": 800,
+                         "main": "Clear",
+                         "description": "clear sky",
+                         "icon": "01n"
+                         }
+                         ]
+             },
+             {
+             "id": 1133574,
+             "dt": 1510862687,
+             "name": "Mehtar Lam",
+             "coord": {
+             "Lat": 34.671391,
+             "Lon": 70.209442
+             },
+             "main": {
+             "temp": 9,
+             "temp_min": 9,
+             "temp_max": 9,
+             "pressure": 1020,
+             "humidity": 93
+             },
+             "wind": {
+             "speed": 0.5,
+             "deg": 330
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 20
+             },
+             "weather": [
+                         {
+                         "id": 701,
+                         "main": "Mist",
+                         "description": "mist",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1139715,
+             "dt": 1510862556,
+             "name": "Jalalabad",
+             "coord": {
+             "Lat": 34.426472,
+             "Lon": 70.45153
+             },
+             "main": {
+             "temp": 9,
+             "temp_min": 9,
+             "temp_max": 9,
+             "pressure": 1020,
+             "humidity": 93
+             },
+             "wind": {
+             "speed": 0.5,
+             "deg": 330
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 20
+             },
+             "weather": [
+                         {
+                         "id": 701,
+                         "main": "Mist",
+                         "description": "mist",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1469706,
+             "dt": 1510862687,
+             "name": "Markaz-e Woluswali-ye Achin",
+             "coord": {
+             "Lat": 34.125832,
+             "Lon": 70.707779
+             },
+             "main": {
+             "temp": 9,
+             "temp_min": 9,
+             "temp_max": 9,
+             "pressure": 1020,
+             "humidity": 93
+             },
+             "wind": {
+             "speed": 0.5,
+             "deg": 330
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 20
+             },
+             "weather": [
+                         {
+                         "id": 701,
+                         "main": "Mist",
+                         "description": "mist",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1168197,
+             "dt": 1510862481,
+             "name": "Peshawar",
+             "coord": {
+             "Lat": 34.007999,
+             "Lon": 71.578491
+             },
+             "main": {
+             "temp": 12,
+             "temp_min": 12,
+             "temp_max": 12,
+             "pressure": 1018,
+             "humidity": 76
+             },
+             "wind": {
+             "speed": 1.07,
+             "deg": 292.502
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 721,
+                         "main": "Haze",
+                         "description": "haze",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1165744,
+             "dt": 1510862648,
+             "name": "Shabqadar",
+             "coord": {
+             "Lat": 34.213902,
+             "Lon": 71.555229
+             },
+             "main": {
+             "temp": 12,
+             "temp_min": 12,
+             "temp_max": 12,
+             "pressure": 1018,
+             "humidity": 76
+             },
+             "wind": {
+             "speed": 1.07,
+             "deg": 292.502
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 721,
+                         "main": "Haze",
+                         "description": "haze",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1163927,
+             "dt": 1510862735,
+             "name": "Tangi",
+             "coord": {
+             "Lat": 34.30056,
+             "Lon": 71.65361
+             },
+             "main": {
+             "temp": 12,
+             "temp_min": 12,
+             "temp_max": 12,
+             "pressure": 1018,
+             "humidity": 76
+             },
+             "wind": {
+             "speed": 1.07,
+             "deg": 292.502
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 721,
+                         "main": "Haze",
+                         "description": "haze",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1148311,
+             "dt": 1510862687,
+             "name": "Asadabad",
+             "coord": {
+             "Lat": 34.873112,
+             "Lon": 71.146973
+             },
+             "main": {
+             "temp": 3.13,
+             "temp_min": 3.13,
+             "temp_max": 3.13,
+             "pressure": 876.49,
+             "sea_level": 1034.24,
+             "grnd_level": 876.49,
+             "humidity": 91
+             },
+             "wind": {
+             "speed": 0.9,
+             "deg": 336.502
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 32
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1148205,
+             "dt": 1510862687,
+             "name": "Asmar",
+             "coord": {
+             "Lat": 35.033329,
+             "Lon": 71.358093
+             },
+             "main": {
+             "temp": 3.13,
+             "temp_min": 3.13,
+             "temp_max": 3.13,
+             "pressure": 876.49,
+             "sea_level": 1034.24,
+             "grnd_level": 876.49,
+             "humidity": 91
+             },
+             "wind": {
+             "speed": 0.9,
+             "deg": 336.502
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 32
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1168680,
+             "dt": 1510862736,
+             "name": "Pabbi",
+             "coord": {
+             "Lat": 34.010559,
+             "Lon": 71.798889
+             },
+             "main": {
+             "temp": 12,
+             "temp_min": 12,
+             "temp_max": 12,
+             "pressure": 1018,
+             "humidity": 76
+             },
+             "wind": {
+             "speed": 1.15,
+             "deg": 334.002
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 721,
+                         "main": "Haze",
+                         "description": "haze",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1341204,
+             "dt": 1510862737,
+             "name": "Nowshera Cantonment",
+             "coord": {
+             "Lat": 33.99667,
+             "Lon": 72.013062
+             },
+             "main": {
+             "temp": 12,
+             "temp_min": 12,
+             "temp_max": 12,
+             "pressure": 1018,
+             "humidity": 76
+             },
+             "wind": {
+             "speed": 1.15,
+             "deg": 334.002
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 721,
+                         "main": "Haze",
+                         "description": "haze",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1181439,
+             "dt": 1510862648,
+             "name": "Charsadda",
+             "coord": {
+             "Lat": 34.143452,
+             "Lon": 71.731728
+             },
+             "main": {
+             "temp": 12,
+             "temp_min": 12,
+             "temp_max": 12,
+             "pressure": 1018,
+             "humidity": 76
+             },
+             "wind": {
+             "speed": 1.15,
+             "deg": 334.002
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 721,
+                         "main": "Haze",
+                         "description": "haze",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1170880,
+             "dt": 1510862736,
+             "name": "Mardan",
+             "coord": {
+             "Lat": 34.20195,
+             "Lon": 72.052544
+             },
+             "main": {
+             "temp": 12,
+             "temp_min": 12,
+             "temp_max": 12,
+             "pressure": 1018,
+             "humidity": 76
+             },
+             "wind": {
+             "speed": 1.15,
+             "deg": 334.002
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 721,
+                         "main": "Haze",
+                         "description": "haze",
+                         "icon": "50n"
+                         }
+                         ]
+             },
+             {
+             "id": 1184249,
+             "dt": 1510862737,
+             "name": "Attock City",
+             "coord": {
+             "Lat": 33.773109,
+             "Lon": 72.3741
+             },
+             "main": {
+             "temp": 13,
+             "temp_min": 13,
+             "temp_max": 13,
+             "pressure": 1018,
+             "humidity": 82
+             },
+             "wind": {
+             "speed": 5.1,
+             "deg": 50
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1183090,
+             "dt": 1510862737,
+             "name": "Bat Khela",
+             "coord": {
+             "Lat": 34.616669,
+             "Lon": 71.97139
+             },
+             "main": {
+             "temp": 4.73,
+             "temp_min": 4.73,
+             "temp_max": 4.73,
+             "pressure": 884.19,
+             "sea_level": 1033.84,
+             "grnd_level": 884.19,
+             "humidity": 89
+             },
+             "wind": {
+             "speed": 1.52,
+             "deg": 10.0021
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 48
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1170395,
+             "dt": 1510862648,
+             "name": "Mingaora",
+             "coord": {
+             "Lat": 34.775841,
+             "Lon": 72.362488
+             },
+             "main": {
+             "temp": 3.76,
+             "temp_min": 3.76,
+             "temp_max": 3.76,
+             "pressure": 853.55,
+             "sea_level": 1033.92,
+             "grnd_level": 853.55,
+             "humidity": 87
+             },
+             "wind": {
+             "speed": 1.27,
+             "deg": 30.5021
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 80
+             },
+             "weather": [
+                         {
+                         "id": 803,
+                         "main": "Clouds",
+                         "description": "broken clouds",
+                         "icon": "04n"
+                         }
+                         ]
+             },
+             {
+             "id": 1176948,
+             "dt": 1510862736,
+             "name": "Hazro",
+             "coord": {
+             "Lat": 33.909142,
+             "Lon": 72.492119
+             },
+             "main": {
+             "temp": 13,
+             "temp_min": 13,
+             "temp_max": 13,
+             "pressure": 1018,
+             "humidity": 82
+             },
+             "wind": {
+             "speed": 5.1,
+             "deg": 50
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1164216,
+             "dt": 1510862647,
+             "name": "Swabi",
+             "coord": {
+             "Lat": 34.119881,
+             "Lon": 72.469872
+             },
+             "main": {
+             "temp": 7.08,
+             "temp_min": 7.08,
+             "temp_max": 7.08,
+             "pressure": 955.52,
+             "sea_level": 1032.3,
+             "grnd_level": 955.52,
+             "humidity": 95
+             },
+             "wind": {
+             "speed": 1.6,
+             "deg": 28.0021
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 24
+             },
+             "weather": [
+                         {
+                         "id": 801,
+                         "main": "Clouds",
+                         "description": "few clouds",
+                         "icon": "02n"
+                         }
+                         ]
+             },
+             {
+             "id": 1177107,
+             "dt": 1510862736,
+             "name": "Haripur",
+             "coord": {
+             "Lat": 33.999969,
+             "Lon": 72.93409
+             },
+             "main": {
+             "temp": 13,
+             "temp_min": 13,
+             "temp_max": 13,
+             "pressure": 1018,
+             "humidity": 82
+             },
+             "wind": {
+             "speed": 5.1,
+             "deg": 50
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1179757,
+             "dt": 1510862736,
+             "name": "Dir",
+             "coord": {
+             "Lat": 35.20583,
+             "Lon": 71.875557
+             },
+             "main": {
+             "temp": -4.57,
+             "temp_min": -4.57,
+             "temp_max": -4.57,
+             "pressure": 730.74,
+             "sea_level": 1036.35,
+             "grnd_level": 730.74,
+             "humidity": 83
+             },
+             "wind": {
+             "speed": 0.77,
+             "deg": 27.0021
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 48
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1164076,
+             "dt": 1510862735,
+             "name": "Tal",
+             "coord": {
+             "Lat": 35.47908,
+             "Lon": 72.243851
+             },
+             "main": {
+             "temp": -4.57,
+             "temp_min": -4.57,
+             "temp_max": -4.57,
+             "pressure": 730.74,
+             "sea_level": 1036.35,
+             "grnd_level": 730.74,
+             "humidity": 83
+             },
+             "wind": {
+             "speed": 0.77,
+             "deg": 27.0021
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 48
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1142170,
+             "dt": 1510862687,
+             "name": "Fayzabad",
+             "coord": {
+             "Lat": 37.116638,
+             "Lon": 70.580017
+             },
+             "main": {
+             "temp": -6.52,
+             "temp_min": -6.52,
+             "temp_max": -6.52,
+             "pressure": 754.41,
+             "sea_level": 1040.32,
+             "grnd_level": 754.41,
+             "humidity": 68
+             },
+             "wind": {
+             "speed": 1.5,
+             "deg": 83.0021
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 24
+             },
+             "weather": [
+                         {
+                         "id": 801,
+                         "main": "Clouds",
+                         "description": "few clouds",
+                         "icon": "02n"
+                         }
+                         ]
+             },
+             {
+             "id": 1221614,
+             "dt": 1510862536,
+             "name": "Ishqoshim",
+             "coord": {
+             "Lat": 36.724838,
+             "Lon": 71.613312
+             },
+             "main": {
+             "temp": -14.65,
+             "temp_min": -14.65,
+             "temp_max": -14.65,
+             "pressure": 636.88,
+             "sea_level": 1040.04,
+             "grnd_level": 636.88,
+             "humidity": 88
+             },
+             "wind": {
+             "speed": 0.77,
+             "deg": 131.502
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 24
+             },
+             "weather": [
+                         {
+                         "id": 801,
+                         "main": "Clouds",
+                         "description": "few clouds",
+                         "icon": "02n"
+                         }
+                         ]
+             },
+             {
+             "id": 1221328,
+             "dt": 1510862677,
+             "name": "Khorugh",
+             "coord": {
+             "Lat": 37.489738,
+             "Lon": 71.55304
+             },
+             "main": {
+             "temp": -12.65,
+             "temp_min": -12.65,
+             "temp_max": -12.65,
+             "pressure": 663.71,
+             "sea_level": 1040.73,
+             "grnd_level": 663.71,
+             "humidity": 96
+             },
+             "wind": {
+             "speed": 1,
+             "deg": 103.002
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 0
+             },
+             "weather": [
+                         {
+                         "id": 800,
+                         "main": "Clear",
+                         "description": "clear sky",
+                         "icon": "01n"
+                         }
+                         ]
+             },
+             {
+             "id": 1169684,
+             "dt": 1510862736,
+             "name": "Murree",
+             "coord": {
+             "Lat": 33.907269,
+             "Lon": 73.392952
+             },
+             "main": {
+             "temp": 13,
+             "temp_min": 13,
+             "temp_max": 13,
+             "pressure": 1018,
+             "humidity": 82
+             },
+             "wind": {
+             "speed": 5.1,
+             "deg": 50
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1185056,
+             "dt": 1510862486,
+             "name": "Abbottabad",
+             "coord": {
+             "Lat": 34.146851,
+             "Lon": 73.214493
+             },
+             "main": {
+             "temp": 13,
+             "temp_min": 13,
+             "temp_max": 13,
+             "pressure": 1018,
+             "humidity": 82
+             },
+             "wind": {
+             "speed": 5.1,
+             "deg": 50
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             },
+             {
+             "id": 1170951,
+             "dt": 1510862647,
+             "name": "Mansehra",
+             "coord": {
+             "Lat": 34.333328,
+             "Lon": 73.199997
+             },
+             "main": {
+             "temp": 5.13,
+             "temp_min": 5.13,
+             "temp_max": 5.13,
+             "pressure": 891.73,
+             "sea_level": 1032.54,
+             "grnd_level": 891.73,
+             "humidity": 76
+             },
+             "wind": {
+             "speed": 1.52,
+             "deg": 50.5021
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 20
+             },
+             "weather": [
+                         {
+                         "id": 801,
+                         "main": "Clouds",
+                         "description": "few clouds",
+                         "icon": "02n"
+                         }
+                         ]
+             },
+             {
+             "id": 1169607,
+             "dt": 1510862736,
+             "name": "Muzaffarabad",
+             "coord": {
+             "Lat": 34.369999,
+             "Lon": 73.471107
+             },
+             "main": {
+             "temp": 5.13,
+             "temp_min": 5.13,
+             "temp_max": 5.13,
+             "pressure": 891.73,
+             "sea_level": 1032.54,
+             "grnd_level": 891.73,
+             "humidity": 76
+             },
+             "wind": {
+             "speed": 1.52,
+             "deg": 50.5021
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 20
+             },
+             "weather": [
+                         {
+                         "id": 801,
+                         "main": "Clouds",
+                         "description": "few clouds",
+                         "icon": "02n"
+                         }
+                         ]
+             },
+             {
+             "id": 1161983,
+             "dt": 1510862735,
+             "name": "Rawala Kot",
+             "coord": {
+             "Lat": 33.857819,
+             "Lon": 73.760429
+             },
+             "main": {
+             "temp": 13,
+             "temp_min": 13,
+             "temp_max": 13,
+             "pressure": 1018,
+             "humidity": 82
+             },
+             "wind": {
+             "speed": 5.1,
+             "deg": 50
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 40
+             },
+             "weather": [
+                         {
+                         "id": 802,
+                         "main": "Clouds",
+                         "description": "scattered clouds",
+                         "icon": "03n"
+                         }
+                         ]
+             }
+             ]
+}
