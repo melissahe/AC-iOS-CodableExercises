@@ -1,0 +1,245 @@
+{
+    "status": "ok",
+    "articles": [
+                 {
+                 "source": {
+                     "id": null,
+                     "name": "Edsurge.com"
+                 },
+                 "author": "Sydney Johnson",
+                 "title": "Who’s Holding Coding Bootcamp Accountability Accountable?",
+                 "description": "When it comes to reporting graduation and job-placement rates, the numbers don’t always add up at for-profit coding bootcamps. That showed this week ...",
+                 "url": "https://www.edsurge.com/news/2017-10-20-who-s-holding-coding-bootcamp-accountability-accountable",
+                 "urlToImage": "https://edsurge.imgix.net/uploads/post/image/10359/coding-1508473895.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+                 "publishedAt": "2017-10-20T10:55:00Z"
+                 },
+                 {
+                 "source": {
+                 "id": "cnn",
+                 "name": "CNN"
+                 },
+                 "author": "Selena Larson",
+                 "title": "WeWork snaps up coding bootcamp Flatiron School",
+                 "description": "WeWork is growing its footprint beyond real estate to education.",
+                 "url": "http://money.cnn.com/2017/10/23/technology/wework-acquires-flatiron-school/index.html",
+                 "urlToImage": "http://i2.cdn.turner.com/money/dam/assets/170920114510-we-work-office-780x439.jpg",
+                 "publishedAt": "2017-10-23T17:57:44Z"
+                 },
+                 {
+                 "source": {
+                 "id": "cnn",
+                 "name": "CNN"
+                 },
+                 "author": "Selena Larson",
+                 "title": "WeWork snaps up coding bootcamp Flatiron School",
+                 "description": "WeWork is growing its footprint beyond real estate to education.",
+                 "url": "http://money.cnn.com/2017/10/23/technology/wework-acquires-flatiron-school/index.html",
+                 "urlToImage": "http://i2.cdn.turner.com/money/dam/assets/170920114510-we-work-office-780x439.jpg",
+                 "publishedAt": "2017-10-23T17:57:53Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Hackernoon.com"
+                 },
+                 "author": "Sophia Ciocca",
+                 "title": "How I landed my post-bootcamp software developer job in just seven weeks",
+                 "description": "After graduating from the Grace Hopper Program (an all-women’s coding bootcamp) this summer, I spent the following three months on a…",
+                 "url": "https://hackernoon.com/how-i-landed-my-post-bootcamp-software-developer-job-in-just-seven-weeks-7b213c1bb867",
+                 "urlToImage": "https://cdn-images-1.medium.com/max/1200/1*n6PDpNT_hUTDRCD-NeINBw.jpeg",
+                 "publishedAt": "2017-11-01T16:02:30Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Bizjournals.com"
+                 },
+                 "author": "Michelle Caffrey",
+                 "title": "​You don't pay back coding bootcamp tuition until you're making at least $40K a year",
+                 "description": "Bootcamp gets greenlight from state for delayed tuition model",
+                 "url": "https://www.bizjournals.com/philadelphia/news/2017/10/03/you-dont-pay-back-coding-bootcamp-tuition-until.html?ana=RSS%26s%3Darticle_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+industry_7+%28Industry+Technology%29",
+                 "urlToImage": null,
+                 "publishedAt": "2017-10-03T18:53:06Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Bizjournals.com"
+                 },
+                 "author": "Michelle Caffrey",
+                 "title": "​You don't pay back coding bootcamp tuition until you're making at least $40K a year",
+                 "description": "Bootcamp gets greenlight from state for delayed tuition model",
+                 "url": "https://www.bizjournals.com/philadelphia/news/2017/10/03/you-dont-pay-back-coding-bootcamp-tuition-until.html?ana=RSS%26s%3Darticle_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+bizj_philadelphia+%28Philadelphia+Business+Journal%29",
+                 "urlToImage": null,
+                 "publishedAt": "2017-10-03T18:53:06Z"
+                 },
+                 {
+                 "source": {
+                 "id": "the-next-web",
+                 "name": "The Next Web"
+                 },
+                 "author": "Matthew Hughes",
+                 "title": "How to survive your first week at a coding bootcamp",
+                 "description": "Coding bootcamps are an increasingly popular avenue of ingress into the software development industry. There’s a lot to love about them. Bootcamps tend to be cheaper than four-year degrees, and have modern curriculums that reflect current hiring trends. But t…",
+                 "url": "https://thenextweb.com/dd/2017/10/06/survive-first-week-coding-bootcamp/",
+                 "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/10/drill-sergeant-social.jpg",
+                 "publishedAt": "2017-10-06T14:31:42Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Bizjournals.com"
+                 },
+                 "author": "Tyler Patchen",
+                 "title": "New coding bootcamp has come to the Magic City",
+                 "description": "TrueCoders wants to open up the doors to possible tech employees",
+                 "url": "https://www.bizjournals.com/birmingham/news/2017/10/13/new-coding-bootcamp-has-come-to-the-magic-city.html?ana=RSS%26s%3Darticle_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+industry_7+%28Industry+Technology%29",
+                 "urlToImage": null,
+                 "publishedAt": "2017-10-13T19:59:44Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Fastcompany.com"
+                 },
+                 "author": "Ruth Reader",
+                 "title": "WeWork just bought NYC coding bootcamp Flatiron School",
+                 "description": "In a move that represents how WeWork is trying to become a hub for all of your professional life needs, the shared-workspace company has acquired the New York City-based coding bootcamp Flatiron School. The terms of the deal weren’t disclosed. “WeWork’s cultu…",
+                 "url": "https://www.fastcompany.com/40484965/wework-just-bought-nyc-coding-bootcamp-flatiron-school",
+                 "urlToImage": "https://fast-company-res.cloudinary.com/image/upload/w_1280,f_auto,q_auto,fl_lossy/v1501604705/fcweb/fastco-news-share-graphic_jot2bv.png",
+                 "publishedAt": "2017-10-23T09:03:17Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Bizjournals.com"
+                 },
+                 "author": "Tyler Patchen",
+                 "title": "New coding bootcamp has come to the Magic City",
+                 "description": "TrueCoders wants to open up the doors to possible tech employees",
+                 "url": "https://www.bizjournals.com/birmingham/news/2017/10/13/new-coding-bootcamp-has-come-to-the-magic-city.html?ana=RSS%26s%3Darticle_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+bizj_birmingham+%28Birmingham+Business+Journal%29",
+                 "urlToImage": null,
+                 "publishedAt": "2017-10-13T19:59:44Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Bizjournals.com"
+                 },
+                 "author": "Tyler Patchen",
+                 "title": "New coding bootcamp has come to the Magic City",
+                 "description": "TrueCoders wants to open up the doors to possible tech employees",
+                 "url": "https://www.bizjournals.com/birmingham/news/2017/10/13/new-coding-bootcamp-has-come-to-the-magic-city.html?ana=RSS%26s%3Darticle_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+bizj_national+%28Bizjournals+National+Feed%29",
+                 "urlToImage": null,
+                 "publishedAt": "2017-10-13T19:59:44Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Hackernoon.com"
+                 },
+                 "author": "Diana Lease",
+                 "title": "What led me to enroll at a NYC coding bootcamp",
+                 "description": "A little bit about myself and why I decided on Fullstack Academy of Code",
+                 "url": "https://hackernoon.com/what-led-me-to-enroll-at-a-nyc-coding-bootcamp-aec9f83d0fea",
+                 "urlToImage": "https://cdn-images-1.medium.com/max/1200/1*Emy9fOBfpUvGd8_QWLsmsQ.jpeg",
+                 "publishedAt": "2017-10-29T22:57:49Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Prnewswire.com"
+                 },
+                 "author": "Reportlinker",
+                 "title": "The global coding bootcamp market is forecasted to grow at a CAGR of 10.96% during the period 2017-2021",
+                 "description": "NEW YORK, Nov. 14, 2017 /PRNewswire/ --About Coding BootcampCoding bootcamps are immersive training programs that range from a few weeks to a few months. They are helpful to learners from diverse backgrounds to improve their programming skills and enhance the…",
+                 "url": "https://www.prnewswire.com/news-releases/the-global-coding-bootcamp-market-is-forecasted-to-grow-at-a-cagr-of-1096-during-the-period-2017-2021-300555996.html",
+                 "urlToImage": "https://content.prnewswire.com/images/prn_facebook_sharing_logo.jpg",
+                 "publishedAt": "2017-11-14T21:37:00Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Sys-con.com"
+                 },
+                 "author": null,
+                 "title": "The global coding bootcamp market is forecasted to grow at a CAGR of 10.96% during the period 2017-2021",
+                 "description": "NEW YORK, Nov. 14, 2017 /PRNewswire/ -- About Coding Bootcamp Coding bootcamps are immersive training programs that range from a few weeks to a few months. They are helpful to learners from diverse backgrounds to improve their programming skills and enhance t…",
+                 "url": "http://news.sys-con.com/node/4196900",
+                 "urlToImage": "",
+                 "publishedAt": "2017-11-14T21:38:20Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Bizjournals.com"
+                 },
+                 "author": "Anthony Noto",
+                 "title": "WeWork now offering coding education through Flatiron School deal",
+                 "description": "WeWork continues to grow beyond co-working. The global office space provider has, up to this point, been providing entrepreneurs and coding professionals alike with the accommodations they need to run a startup. Now, it's the owner of a coding school. Flatiro…",
+                 "url": "https://www.bizjournals.com/newyork/news/2017/10/23/wework-and-flatiron-school-partner-on-coding-class.html?ana=RSS%26s%3Darticle_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+bizj_national+%28Bizjournals+National+Feed%29",
+                 "urlToImage": null,
+                 "publishedAt": "2017-10-23T17:47:15Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Bizjournals.com"
+                 },
+                 "author": "Anthony Noto",
+                 "title": "WeWork now offering coding education through Flatiron School deal",
+                 "description": "WeWork continues to grow beyond co-working. The global office space provider has, up to this point, been providing entrepreneurs and coding professionals alike with the accommodations they need to run a startup. Now, it's the owner of a coding school. Flatiro…",
+                 "url": "https://www.bizjournals.com/newyork/news/2017/10/23/wework-and-flatiron-school-partner-on-coding-class.html?ana=RSS%26s%3Darticle_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+industry_7+%28Industry+Technology%29",
+                 "urlToImage": null,
+                 "publishedAt": "2017-10-23T17:47:15Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Fastcompany.com"
+                 },
+                 "author": "Jonathan Lau",
+                 "title": "This Is What Coding Bootcamps Need To Do To Beat The Backlash",
+                 "description": "With two major bootcamps shutting down this summer, some are questioning the future of the model. Here’s what it will take for bootcamps to stay relevant. Coding bootcamps, which offer short-term, intensive training in software development, data science, cybe…",
+                 "url": "https://www.fastcompany.com/40471956/this-is-what-coding-bootcamps-need-to-do-to-beat-the-backlash",
+                 "urlToImage": "https://assets.fastcompany.com/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2017/09/p-2-this-is-what-coding-bootcamps-need-to-do-to-beat-the-backlash.jpg",
+                 "publishedAt": "2017-09-26T10:00:51Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Bizjournals.com"
+                 },
+                 "author": "Debora Lima",
+                 "title": "Wyncode successfully places 95 percent of its graduates, new report shows",
+                 "description": "Miami-based coding bootcamp Wyncode has released the results of its second graduation and placement analysis, a compilation of data independently verified by public accounting firm Morrison, Brown, Argiz & Farra. Wyncode offers a 10-week program that teaches …",
+                 "url": "https://www.bizjournals.com/southflorida/news/2017/11/07/wyncode-successfully-places-95-percent-of-grads.html?ana=RSS%26s%3Darticle_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+bizj_national+%28Bizjournals+National+Feed%29",
+                 "urlToImage": null,
+                 "publishedAt": "2017-11-07T12:01:20Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Bizjournals.com"
+                 },
+                 "author": "Debora Lima",
+                 "title": "Wyncode successfully places 95 percent of its graduates, new report shows",
+                 "description": "Miami-based coding bootcamp Wyncode has released the results of its second graduation and placement analysis, a compilation of data independently verified by public accounting firm Morrison, Brown, Argiz & Farra. Wyncode offers a 10-week program that teaches …",
+                 "url": "https://www.bizjournals.com/southflorida/news/2017/11/07/wyncode-successfully-places-95-percent-of-grads.html?ana=RSS%26s%3Darticle_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+bizj_southflorida+%28South+Florida+Business+Journal%29",
+                 "urlToImage": null,
+                 "publishedAt": "2017-11-07T12:01:20Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Themuse.com"
+                 },
+                 "author": "Skillcrush",
+                 "title": "3 Tech Experts on How Long it Takes to Learn to Code",
+                 "description": "If you've ever wanted to learn how to code, but felt daunted by the task, here's how long it (actually) takes—according to real professionals.",
+                 "url": "https://www.themuse.com/advice/3-tech-experts-on-how-long-it-takes-to-learn-to-code",
+                 "urlToImage": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fattachments%2F26176.jpg%3Fv%3D4413dcb9da74d2539d9ec385ed568af2d59be0fc5cc1bdface69e4bd79ce6cc6&fmt=jpeg&h=367&mode=fill&w=750",
+                 "publishedAt": "2017-09-26T13:45:28Z"
+                 }
+                 ]
+}

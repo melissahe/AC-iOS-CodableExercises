@@ -23,6 +23,10 @@
 		8129F0A71FBE4702001346AA /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8129F0A61FBE4702001346AA /* Color.swift */; };
 		8129F0A91FBE470F001346AA /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8129F0A81FBE470F001346AA /* ColorViewController.swift */; };
 		8129F0AB1FBE4718001346AA /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8129F0AA1FBE4718001346AA /* ColorDetailViewController.swift */; };
+		81C365AB1FBE5743001DD90C /* NewsInfo.json in Resources */ = {isa = PBXBuildFile; fileRef = 81C365AA1FBE5743001DD90C /* NewsInfo.json */; };
+		81C365AD1FBE7F23001DD90C /* News.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C365AC1FBE7F23001DD90C /* News.swift */; };
+		81C365B01FBE8003001DD90C /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C365AF1FBE8003001DD90C /* NewsViewController.swift */; };
+		81C365B21FBE801A001DD90C /* NewsDetailedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C365B11FBE801A001DD90C /* NewsDetailedViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +48,10 @@
 		8129F0A61FBE4702001346AA /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		8129F0A81FBE470F001346AA /* ColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
 		8129F0AA1FBE4718001346AA /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
+		81C365AA1FBE5743001DD90C /* NewsInfo.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = NewsInfo.json; sourceTree = "<group>"; };
+		81C365AC1FBE7F23001DD90C /* News.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = News.swift; sourceTree = "<group>"; };
+		81C365AF1FBE8003001DD90C /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
+		81C365B11FBE801A001DD90C /* NewsDetailedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDetailedViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +71,7 @@
 				811E8EF41FBE201800C60F3F /* SongsInfo.json */,
 				8129F09B1FBE29F3001346AA /* CitiesInfo.json */,
 				8129F0A31FBE4608001346AA /* ColorInfo.json */,
+				81C365AA1FBE5743001DD90C /* NewsInfo.json */,
 				811E8EE01FBE1EAE00C60F3F /* CodableExercises */,
 				811E8EDF1FBE1EAE00C60F3F /* Products */,
 			);
@@ -83,6 +92,7 @@
 				811E8EF61FBE202800C60F3F /* Songs Exercise 1 */,
 				8129F09A1FBE2894001346AA /* Weather Exercises 2 */,
 				8129F0A51FBE468E001346AA /* Colors Exercise 3 */,
+				81C365AE1FBE7F29001DD90C /* News Exercise 4 */,
 				811E8EE51FBE1EAE00C60F3F /* Main.storyboard */,
 				811E8EE81FBE1EAE00C60F3F /* Assets.xcassets */,
 				811E8EED1FBE1EAE00C60F3F /* Info.plist */,
@@ -127,6 +137,16 @@
 				8129F0AA1FBE4718001346AA /* ColorDetailViewController.swift */,
 			);
 			path = "Colors Exercise 3";
+			sourceTree = "<group>";
+		};
+		81C365AE1FBE7F29001DD90C /* News Exercise 4 */ = {
+			isa = PBXGroup;
+			children = (
+				81C365AC1FBE7F23001DD90C /* News.swift */,
+				81C365AF1FBE8003001DD90C /* NewsViewController.swift */,
+				81C365B11FBE801A001DD90C /* NewsDetailedViewController.swift */,
+			);
+			path = "News Exercise 4";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,6 +212,7 @@
 				811E8EEC1FBE1EAE00C60F3F /* LaunchScreen.storyboard in Resources */,
 				8129F09C1FBE29F3001346AA /* CitiesInfo.json in Resources */,
 				8129F0A41FBE4609001346AA /* ColorInfo.json in Resources */,
+				81C365AB1FBE5743001DD90C /* NewsInfo.json in Resources */,
 				811E8EE91FBE1EAE00C60F3F /* Assets.xcassets in Resources */,
 				811E8EE71FBE1EAE00C60F3F /* Main.storyboard in Resources */,
 			);
@@ -207,9 +228,12 @@
 				811E8EFC1FBE20B000C60F3F /* Song.swift in Sources */,
 				8129F09E1FBE30F9001346AA /* City.swift in Sources */,
 				8129F0A21FBE324F001346AA /* CitiesDetailedViewController.swift in Sources */,
+				81C365B01FBE8003001DD90C /* NewsViewController.swift in Sources */,
 				8129F0AB1FBE4718001346AA /* ColorDetailViewController.swift in Sources */,
 				811E8EE21FBE1EAE00C60F3F /* AppDelegate.swift in Sources */,
+				81C365B21FBE801A001DD90C /* NewsDetailedViewController.swift in Sources */,
 				8129F0A01FBE3231001346AA /* CitiesViewController.swift in Sources */,
+				81C365AD1FBE7F23001DD90C /* News.swift in Sources */,
 				8129F0A71FBE4702001346AA /* Color.swift in Sources */,
 				811E8EF81FBE204D00C60F3F /* SongsViewController.swift in Sources */,
 				8129F0A91FBE470F001346AA /* ColorViewController.swift in Sources */,
